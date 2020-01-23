@@ -10,10 +10,10 @@ locale                   : "en-US"
 title                    : "About Me"
 title_separator          : "-"
 name                     : &name "Alessio Buccino"
-description              : &description "PhD candidate at the Informatics Forum, University of Edinburgh. I like generative modeling, deep learning, spike sorting, open science, board games, and swimming."
+description              : &description "Researcher at the Center for Integrated Neuroplasticity (CINPLA) at University of Oslo. I'm interested in neurotechnology, computational neuroscience, neural engineering, music, and soccer."
 url                      : https://alejoe91.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "alessiobuccino.github.io"
+repository               : "alejoe91.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Cole Hurwitz"
-  avatar           : "profile.png"
-  bio              : "PhD candidate at the Informatics Forum, University of Edinburgh. I like generative modeling, deep learning, spike sorting, open science, board games, and swimming."
+  name             : "Alessio Buccino"
+  avatar           : "profile_ab.png"
+  bio              : "Researcher at the Center for Integrated Neuroplasticity (CINPLA) at University of Oslo. I'm interested in neurotechnology, computational neuroscience, neural engineering, music, and soccer."
   location         : "Oslo, Norway"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=cole+hurwitz"
-  googlescholar    : "https://scholar.google.com/citations?hl=en&user=jaPxv5cAAAAJ&view_op=list_works&gmla=AJsN-F6mwChKmh9APxQ-rhyOBwAPKdBZv3vJ2M1nsx_RhYr08vPI__piwacXZJmRfzjuAOQ4KK33EDDoYbEV_S_Mi10EpxSFtbI0qFWGsvN-vipU9XhV0aE"
+  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=alessio+buccino"
+  googlescholar    : "https://scholar.google.com/citations?hl=it&user=UmLW1NAAAAAJ"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -102,14 +102,14 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "cole-hurwitz-43a95314a"
-  orcid            : "https://orcid.org/0000-0002-2023-1653"
+  linkedin         : "https://www.linkedin.com/in/alessio-buccino-770abbb6/"
+  orcid            : "https://orcid.org/0000-0003-3661-527X"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "buccino_aleesio"
+  twitter          : "buccino_alessio"
   vine             :
   weibo            :
   xing             :
