@@ -20,4 +20,3 @@ News
 * New paper: [SpikeInterface, a unified framework for spike sorting](https://www.biorxiv.org/content/10.1101/796599v1).
 * I was awarded a travel grant to attend NeurIPS.
 * Our paper [Scalable Spike Source Localization in Extracellular Recordings using Amortized Variational Inference](https://papers.nips.cc/paper/8720-scalable-spike-source-localization-in-extracellular-recordings-using-amortized-variational-inference) was accepted at NeurIPS 2019.
-* I attended the Machine Learning Summer Series (MLSS) 2019 in London.
