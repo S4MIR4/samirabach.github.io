@@ -17,6 +17,7 @@ News
 ======
 * PhD defended! The PhD thesis is available [here](https://www.duo.uio.no/handle/10852/72480)
 * New paper: [SpikeForest: reproducible web-facing ground-truth validation of automated neural spike sorters](https://www.biorxiv.org/content/10.1101/2020.01.14.900688v1?rss=1).
+* In March 2020 I will start a Postdoctoral fellowship at ETH at [BEL](https://bsse.ethz.ch/bel)
 * New paper: [SpikeInterface, a unified framework for spike sorting](https://www.biorxiv.org/content/10.1101/796599v1).
-* I was awarded a travel grant to attend NeurIPS.
 * Our paper [Scalable Spike Source Localization in Extracellular Recordings using Amortized Variational Inference](https://papers.nips.cc/paper/8720-scalable-spike-source-localization-in-extracellular-recordings-using-amortized-variational-inference) was accepted at NeurIPS 2019.
+* New paper: [MEArec: a fast and customizable testbench simulator of ground-truth spiking activity](https://www.biorxiv.org/content/10.1101/691642v1).
