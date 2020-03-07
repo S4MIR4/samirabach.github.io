@@ -5,46 +5,31 @@ permalink: /software/
 author_profile: true
 ---
 
-<p>
-<a href="https://github.com/SpikeInterface"><b>SpikeInterface: A Unified Framework for Spike Sorting</b></a>.&nbsp; 
-<b>Alessio Paolo Buccino*</b>, Cole L Hurwitz*, Jeremy Magland, Samuel Garcia, Josh Siegle, Roger Hurwitz, and Matthias Hennig.
-</p>
-Role: Author
+# Electrophysiology
 
 
-<p>
-   [<a href="https://github.com/SpikeInterface">Source Code</a> | <a href="https://github.com/SpikeInterface">Docs</a> | 
-   <a href="https://github.com/SpikeInterface">Preprint</a> ]
-</p>
+- [SpikeInterface](https://github.com/SpikeInterface/spikeinterface)
 
-<p>
-<a href="https://github.com/alejoe91/MEArec"><b>MEArec: a fast and customizable simulator of extracellular spiking activity</b></a>.&nbsp;  <b>Alessio Buccino</b>, and and Gaute Einevoll.
-</p>
-Role: Author
+- Open ephys plugins
+    - [tracking-plugin](https://github.com/CINPLA/tracking-plugin)
+    - [logic-gate-plugin](https://github.com/CINPLA/logic-gate-plugin)
+    - [sync-plugin](https://github.com/CINPLA/sync-plugin)
 
-<p>
-   [<a href="https://github.com/alejoe91/MEArec">Source Code</a> | <a href="https://github.com/SpikeInterface">Docs</a>
-   | <a href="https://www.sciencedirect.com/science/article/pii/S221112471730236X">Publication</a>]
-</p>
+- [Pyopenephys](https://github.com/CINPLA/pyopenephys)
 
-<p>
-<a href="https://github.com/alejoe91/MEArec"><b>Neuronmi: a fast and customizable simulator of extracellular spiking activity</b></a>.&nbsp; Matthias Hennig, <b>Cole L Hurwitz</b>, Jano Horvath, Oliver Muthmann, Albert Puente Encinas, Martino Sorbaro, Cesar Juarez Ramirez, and Raimon Wintzer.
-</p>
-Role: Author
+- [Pyintan](https://github.com/alejoe91/pyintan)
 
-<p>
-   [<a href="https://github.com/alejoe91/MEArec">Source Code</a> | <a href="https://github.com/SpikeInterface">Docs</a>
-   | <a href="https://www.sciencedirect.com/science/article/pii/S221112471730236X">Publication</a>]
-</p>
+- [SpyICA](https://github.com/alejoe91/spyica)
 
 
+# Simulators
 
-<p>
-<a href="https://github.com/alejoe91/MEArec"><b>Open source modules </b></a>.&nbsp; Matthias Hennig, <b>Cole L Hurwitz</b>, Jano Horvath, Oliver Muthmann, Albert Puente Encinas, Martino Sorbaro, Cesar Juarez Ramirez, and Raimon Wintzer.
-</p>
-Role: Author
+- [MEArec](https://github.com/alejoe91/MEArec)
 
-<p>
-   [<a href="https://github.com/alejoe91/MEArec">Source Code</a> | <a href="https://github.com/SpikeInterface">Docs</a>
-   | <a href="https://www.sciencedirect.com/science/article/pii/S221112471730236X">Publication</a>]
-</p>
+- [MEAutility](https://github.com/alejoe91/MEAutility)
+
+- [nEuronMI](https://github.com/miroK/nEuronMI)
+
+# Data management
+
+- [Expipe](https://github.com/CINPLA/pyopenephys)
