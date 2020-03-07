@@ -59,6 +59,7 @@ Jeremy F Magland, James J Jun, Elizabeth Lovero, Cole L. Hurwitz, <b>Alessio P. 
 <a href="https://www.biorxiv.org/content/10.1101/691642v2">
 <b>MEArec: a fast and customizable testbench simulator for ground-truth extracellular spiking activity</b></a><br>
 <i> bioRxiv </i> (2019)<br><b>Alessio P. Buccino</b> and Gaute T. Einevoll 
+</p>
 
 # Conference
 
