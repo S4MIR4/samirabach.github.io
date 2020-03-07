@@ -9,12 +9,13 @@ redirect_from:
 ---
 
 Research
-======
+=========
 I am a researcher at the Center for Integrated Neuroplasticity [CINPLA](https://www.mn.uio.no/ibv/english/research/sections/fyscell/cinpla/), at the University of Oslo.
 My research is about combining neurotechnology, computational neuroscience, and neural engineering to improve electrophysiological techniques in neuroscience.
 
 News
 ======
+* MEArec manuscript has been updated! [MEArec: a fast and customizable testbench simulator of ground-truth spiking activity](https://www.biorxiv.org/content/10.1101/691642v2).
 * PhD defended! The PhD thesis is available [here](https://www.duo.uio.no/handle/10852/72480)
 * New paper: [SpikeForest: reproducible web-facing ground-truth validation of automated neural spike sorters](https://www.biorxiv.org/content/10.1101/2020.01.14.900688v1?rss=1).
 * In March 2020 I will start a Postdoctoral fellowship at ETH at [BEL](https://bsse.ethz.ch/bel)

@@ -1,6 +1,6 @@
 # main links links
 main:
-  - title: "Papers"
+  - title: "Publications"
     url: /papers/
     
   - title: "Software"
@@ -12,6 +12,6 @@ main:
   - title: "Talks"
     url: /talks/    
         
-  - title: "Blog Posts"
-    url: /year-archive/
-  
+  #- title: "Blog Posts"
+  #  url: /year-archive/
+
