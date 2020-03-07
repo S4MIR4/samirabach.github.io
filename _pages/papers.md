@@ -50,7 +50,8 @@ Jeremy F Magland, James J Jun, Elizabeth Lovero, Cole L. Hurwitz, <b>Alessio P. 
 </p>
 
 <p>
-<a href="https://www.biorxiv.org/content/10.1101/796599v1"><b>SpikeInterface, a unified framework for spike sorting</b></a><br>
+<a href="https://www.biorxiv.org/content/10.1101/796599v1">
+<b>SpikeInterface, a unified framework for spike sorting</b></a><br>
 <i> bioRxiv (2019)</i><br><b>Alessio P. Buccino</b><sup>1</sup>, Cole L. Hurwitz<sup>1</sup>, Jeremy Magland, Samuel Garcia, Joshua H. Siegle, Roger Hurwitz, Matthias H. Hennig. bioRxiv 2019. 1. equal contribution. 
 </p>
 
