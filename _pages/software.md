@@ -38,5 +38,5 @@ It includes the full 3d-3d EMI model (Extracellular-Membrane-Intracellular) and 
 
 # Data management
 
-- [Expipe](https://github.com/CINPLA/pyopenephys): Python package for managing experimental projects. It includes a command-line interface (CLI) and 
+- [Expipe](https://github.com/CINPLA/expipe): Python package for lightweight managment of experimental projects. It includes a command-line interface (CLI) and 
 it's extendible with plugins to customize its use for different requirements.
