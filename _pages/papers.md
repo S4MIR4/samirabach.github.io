@@ -64,7 +64,7 @@ Mikkel E. Lepperød, Svenn-Arne Dragly, <b>Alessio P. Buccino</b>, Milad H. Moba
 <p>
 <a href="https://www.biorxiv.org/content/10.1101/796599v1">
 <b>Electrophysiological Phenotype Characterization of Human iPSC-Derived Neuronal Cell Lines by Means of High-Density Microelectrode Arrays</b></a><br>
-<i> bioRxiv (2020)</i><br>Silvia Ronchi, <b>Alessio P. Buccino, Gustavo Prack, Sreedhar S. Kumar, Manuel Schröter, Michele Fiscella, and Andreas Hierlemann</b>. 
+<i> bioRxiv (2020)</i><br>Silvia Ronchi, <b>Alessio P. Buccino</b>, Gustavo Prack, Sreedhar S. Kumar, Manuel Schröter, Michele Fiscella, and Andreas Hierlemann</b>. 
 </p>
 
 <p>
