@@ -16,6 +16,8 @@ I'm particularly interested in advanced recording and stimulation modalities to 
 
 News
 ======
+* (Nov 2020) New book chapter! [Improving Neural Simulations with the EMI Model](https://link.springer.com/chapter/10.1007/978-3-030-61157-6_7)
+* (Sep 2020) New book chapter! [Biopotential Measurements and Electrodes](https://link.springer.com/chapter/10.1007/978-3-030-43395-6_2)
 * (Sep 2020) New preprint! [Electrophysiological Phenotype Characterization of Human iPSC-Derived Neuronal Cell Lines by Means of High-Density Microelectrode Arrays](https://www.biorxiv.org/content/10.1101/2020.09.02.271403v1)
 * (Aug 2020) SpineInterface manuscript has been updated!: [SpikeInterface, a unified framework for spike sorting](https://www.biorxiv.org/content/10.1101/796599v2)
 * (Jul 2020) MEArec paper has been published in Neuroinformatics! [MEArec: a fast and customizable testbench simulator of ground-truth spiking activity](https://link.springer.com/article/10.1007/s12021-020-09467-7)

@@ -122,9 +122,17 @@ Mikkel E. Lepperød, Svenn-Arne Dragly, <b>Alessio P. Buccino</b>, Milad H. Moba
 # Book Chapters
 
 <p>
-<a href="https://ieeexplore.ieee.org/document/7833846">
+<a href="https://link.springer.com/chapter/10.1007/978-3-030-61157-6_7">
+<b>Improving Neural Simulations with the EMI Model</b></a><br>
+<i>Modeling Excitable Tissue. Simula SpringerBriefs on Computing (2020)</i><br>
+<b>Alessio P. Buccino</b>, Miroslav Kuchta, Jakob Schreiner, and Kent-André Mardal
+</p>
+
+
+<p>
+<a href="https://link.springer.com/chapter/10.1007/978-3-030-43395-6_2#citeas">
 <b>Biopotential Measurements and Electrodes</b></a><br>
-<i>Neural Engineering</i><br>
+<i>Neural Engineering. Springer (2020)</i><br>
 Abraham Akinin, Akshay Paul, Jun Wang, <b>Alessio P. Buccino</b>, and Gert Cauwenberghs
 </p>
 
