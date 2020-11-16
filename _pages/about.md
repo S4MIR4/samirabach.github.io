@@ -16,6 +16,7 @@ I'm particularly interested in advanced recording and stimulation modalities to 
 
 News
 ======
+* (May 2020) SpikeInterface paper has been published in eLife! [SpikeInterface, a unified framework for spike sorting](https://elifesciences.org/articles/61834)
 * (Nov 2020) New book chapter! [Improving Neural Simulations with the EMI Model](https://link.springer.com/chapter/10.1007/978-3-030-61157-6_7)
 * (Sep 2020) New book chapter! [Biopotential Measurements and Electrodes](https://link.springer.com/chapter/10.1007/978-3-030-43395-6_2)
 * (Sep 2020) New preprint! [Electrophysiological Phenotype Characterization of Human iPSC-Derived Neuronal Cell Lines by Means of High-Density Microelectrode Arrays](https://www.biorxiv.org/content/10.1101/2020.09.02.271403v1)

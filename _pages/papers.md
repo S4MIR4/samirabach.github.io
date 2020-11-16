@@ -8,6 +8,13 @@ author_profile: true
 # Journal 
 
 <p>
+<a href="https://elifesciences.org/articles/61834">
+<b>SpikeInterface, a unified framework for spike sorting</b></a><br>
+<i> eLife (2020)</i><br>
+<b>Alessio P. Buccino</b><sup>1</sup>, Cole L. Hurwitz<sup>1</sup>, Jeremy Magland, Samuel Garcia, Joshua H. Siegle, Roger Hurwitz, Matthias H. Hennig.
+</p>
+
+<p>
 <a href="https://elifesciences.org/articles/55167">
 <b>SpikeForest: reproducible web-facing ground-truth validation of automated neural spike sorters</b></a><br>
 <i> eLife (2020)</i><br>
@@ -65,12 +72,6 @@ Mikkel E. Lepperød, Svenn-Arne Dragly, <b>Alessio P. Buccino</b>, Milad H. Moba
 <a href="https://www.biorxiv.org/content/10.1101/2020.09.02.271403v1">
 <b>Electrophysiological Phenotype Characterization of Human iPSC-Derived Neuronal Cell Lines by Means of High-Density Microelectrode Arrays</b></a><br>
 <i> bioRxiv (2020)</i><br>Silvia Ronchi, <b>Alessio P. Buccino</b>, Gustavo Prack, Sreedhar S. Kumar, Manuel Schröter, Michele Fiscella, and Andreas Hierlemann</b>. 
-</p>
-
-<p>
-<a href="https://www.biorxiv.org/content/10.1101/796599v1">
-<b>SpikeInterface, a unified framework for spike sorting</b></a><br>
-<i> bioRxiv (2019)</i><br><b>Alessio P. Buccino</b><sup>1</sup>, Cole L. Hurwitz<sup>1</sup>, Jeremy Magland, Samuel Garcia, Joshua H. Siegle, Roger Hurwitz, Matthias H. Hennig. bioRxiv 2019. 1. equal contribution. 
 </p>
 
 
