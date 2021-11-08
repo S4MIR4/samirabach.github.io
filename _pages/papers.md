@@ -8,6 +8,20 @@ author_profile: true
 # Journal 
 
 <p>
+<a href="https://www.science.org/doi/10.1126/sciadv.abd5684">
+<b>Optogenetic pacing of medial septum parvalbumin-positive cells disrupts temporal but not spatial firing in grid cells</b></a><br>
+<i> Advanced Sceinces (2021)</i><br>
+Mikkel Lepperød, Ane Charlotte Christiansen, Kristian Lensø, <b>Alessio P. Buccino</b>, Jai Yu, Marianne Fyhn, and Torkel Hafting. 
+</p>
+
+<p>
+<a href="https://onlinelibrary.wiley.com/doi/10.1002/adbi.202000223">
+<b>Electrophysiological Phenotype Characterization of Human iPSC-Derived Neuronal Cell Lines by Means of High-Density Microelectrode Arrays</b></a><br>
+<i> Advanced Biology (2021)</i><br>
+Silvia Ronchi, <b>Alessio P. Buccino</b>, Gustavo Prack, Sreedhar S. Kumar, Manuel Schröter, Michele Fiscella, and Andreas Hierlemann. 
+</p>
+
+<p>
 <a href="https://elifesciences.org/articles/61834">
 <b>SpikeInterface, a unified framework for spike sorting</b></a><br>
 <i> eLife (2020)</i><br>
@@ -68,12 +82,21 @@ Mikkel E. Lepperød, Svenn-Arne Dragly, <b>Alessio P. Buccino</b>, Milad H. Moba
 
 # Preprints
 
+
 <p>
-<a href="https://www.biorxiv.org/content/10.1101/2020.09.02.271403v1">
-<b>Electrophysiological Phenotype Characterization of Human iPSC-Derived Neuronal Cell Lines by Means of High-Density Microelectrode Arrays</b></a><br>
-<i> bioRxiv (2020)</i><br>Silvia Ronchi, <b>Alessio P. Buccino</b>, Gustavo Prack, Sreedhar S. Kumar, Manuel Schröter, Michele Fiscella, and Andreas Hierlemann</b>. 
+<a href="https://www.biorxiv.org/content/10.1101/2021.01.28.428643v2">
+<b>Human brain organoid networks</b></a><br>
+<i>biorXiv (2021)</i><br>
+Tal Sharf, Tjitse van der Molen, Stella M. K. Glasauer, Elmer Guzman, <b>Alessio P. Buccino</b>, Gabriel Luna, Zhouwei Cheng, Morgane Audouard, Kamalini G. Ranasinghe, Kiwamu Kudo, Srikantan S. Nagarajan, Kenneth R Tovar, Linda R Petzold, Andreas Hierlemann, Paul K. Hansma, and Kenneth S. Kosik
 </p>
 
+
+<p>
+<a href="https://www.biorxiv.org/content/10.1101/2021.06.12.448051v1.full">
+<b>An automated method for precise axon reconstruction from recordings of high-density micro-electrode arrays</b></a><br>
+<i>biorXiv (2021)</i><br> 
+<b>Alessio P. Buccino</b>, Xinyue Yuan, Vishalini Emmenegger, Xiaohan Xue, Tobias Gänswein, and Andreas Hierlemann
+</p>
 
 # Conference
 

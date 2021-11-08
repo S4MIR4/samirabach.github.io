@@ -12,6 +12,8 @@ author_profile: true
 Features include loading/saving in several file format, pre-, post-processing, running 10+ different spike sorters, 
 validation (quality metrics - QC), export to [Phy](https://github.com/cortex-lab/phy), automatic curation based on QC, comparison between sorting outputs, and visualization widgets.
 
+- [ProbeInterface](https://github.com/SpikeInterface/probeinterface): unified and open-source Python framework for handling neural probes. 
+
 - Open-Ephys plugins: collection of plugins for the [Open-Ephys](https://open-ephys.org/) system
     - [tracking-plugin](https://github.com/CINPLA/tracking-plugin): plugin for tracking animals and closed-loop stimulation based on real time position. It works in combination with [Bonsai](https://bonsai-rx.org/).
     - [logic-gate-plugin](https://github.com/CINPLA/logic-gate-plugin): plugin to combine TTL inputs with logic gates.
@@ -22,6 +24,8 @@ validation (quality metrics - QC), export to [Phy](https://github.com/cortex-lab
 - [Pyintan](https://github.com/alejoe91/pyintan): Python package to parse Intan recordings (.rhd and .rhs)
 
 - [SpyICA](https://github.com/alejoe91/spyica): Python package for ICA-based spike sorting. Compatible with the SpikeInterface framework
+
+- [axon_velocity](https://github.com/alejoe91/axon_velocity): Python package to reconstruct axonal branches from HD-MEA recordings 
 
 
 # Simulators
