@@ -8,9 +8,30 @@ author_profile: true
 # Journal 
 
 <p>
+<a href="https://iopscience.iop.org/article/10.1088/2516-1091/ac6b96">
+<b>Spike sorting: new trends and challenges of the era of high-density probes</b></a><br>
+<i>Progress in Biomedical Engineering (2022)</i><br> 
+<b>Alessio P. Buccino</b>, Samuel Garcia, and Pierre Yger
+</p>
+
+<p>
+<a href="https://iopscience.iop.org/article/10.1088/1741-2552/ac59a2">
+<b>An automated method for precise axon reconstruction from recordings of high-density micro-electrode arrays</b></a><br>
+<i>Journal of Neural Engineering (2022)</i><br> 
+<b>Alessio P. Buccino</b>, Xinyue Yuan, Vishalini Emmenegger, Xiaohan Xue, Tobias Gänswein, and Andreas Hierlemann
+</p>
+
+<p>
+<a href="https://www.frontiersin.org/articles/10.3389/fninf.2022.823056/full">
+<b>ProbeInterface: a unified framework for probe handling in extracellular electrophysiology</b></a><br>
+<i>Frontiers in Neuroinformatics (2022)</i><br> 
+Samuel Garcia, Julia Sprenger, Tahl Holtzman, and <b>Alessio P. Buccino</b>
+</p>
+
+<p>
 <a href="https://www.science.org/doi/10.1126/sciadv.abd5684">
 <b>Optogenetic pacing of medial septum parvalbumin-positive cells disrupts temporal but not spatial firing in grid cells</b></a><br>
-<i> Advanced Sceinces (2021)</i><br>
+<i> Advanced Sciences (2021)</i><br>
 Mikkel Lepperød, Ane Charlotte Christiansen, Kristian Lensø, <b>Alessio P. Buccino</b>, Jai Yu, Marianne Fyhn, and Torkel Hafting. 
 </p>
 
@@ -84,19 +105,27 @@ Mikkel E. Lepperød, Svenn-Arne Dragly, <b>Alessio P. Buccino</b>, Milad H. Moba
 
 
 <p>
+<a href="https://www.biorxiv.org/content/10.1101/2022.02.16.480643v1">
+<b>Inferring monosynaptic connections from paired dendritic spine Ca2+ imaging and large-scale recording of extracellular spiking</b></a><br>
+<i>biorXiv (2022)</i><br>
+Xiaohan Xue*, <b>Alessio P. Buccino</b>*, Sreedhar Kumar, Andreas Hierlemann, and Julian Bartram
+</p>
+
+<p>
+<a href="https://www.biorxiv.org/content/10.1101/2021.11.29.470450v1">
+<b>How do spike collisions affect spike sorting performance?</b></a><br>
+<i>biorXiv (2022)</i><br>
+Samuel Garcia, <b>Alessio P. Buccino</b>*, Pierre Yger
+</p>
+
+
+<p>
 <a href="https://www.biorxiv.org/content/10.1101/2021.01.28.428643v2">
 <b>Human brain organoid networks</b></a><br>
 <i>biorXiv (2021)</i><br>
 Tal Sharf, Tjitse van der Molen, Stella M. K. Glasauer, Elmer Guzman, <b>Alessio P. Buccino</b>, Gabriel Luna, Zhouwei Cheng, Morgane Audouard, Kamalini G. Ranasinghe, Kiwamu Kudo, Srikantan S. Nagarajan, Kenneth R Tovar, Linda R Petzold, Andreas Hierlemann, Paul K. Hansma, and Kenneth S. Kosik
 </p>
 
-
-<p>
-<a href="https://www.biorxiv.org/content/10.1101/2021.06.12.448051v1.full">
-<b>An automated method for precise axon reconstruction from recordings of high-density micro-electrode arrays</b></a><br>
-<i>biorXiv (2021)</i><br> 
-<b>Alessio P. Buccino</b>, Xinyue Yuan, Vishalini Emmenegger, Xiaohan Xue, Tobias Gänswein, and Andreas Hierlemann
-</p>
 
 # Conference
 
