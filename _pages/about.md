@@ -18,7 +18,7 @@ analysis methods and software tools. Among these, I am the core developer of sev
 tools, including [SpikeInterface](https://spikeinterface.readthedocs.io/en/latest/), a widely used software framework 
 to unify and simplify the analysis of extracellular electrophysiology data. 
 
-In March 2020, I joined the Allen Institute for Neural Dynamics team as an electrophysiology pipeline development 
+In March 2022, I joined the Allen Institute for Neural Dynamics team as an electrophysiology pipeline development 
 engineer consultant, with the goal of building open-source and computationally efficient processing pipelines to 
 analyze large amounts of electrophysiological data.
 Since July 2020, I have been working part-time at [CatalystNeuro](https://www.catalystneuro.com/), a consulting company 
