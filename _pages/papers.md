@@ -8,6 +8,29 @@ author_profile: true
 # Journal 
 
 <p>
+<a href="https://iopscience.iop.org/article/10.1088/1741-2552/ac8765">
+<b>Inferring monosynaptic connections from paired dendritic spine Ca2+ imaging and large-scale recording of extracellular spiking</b></a><br>
+<i>Journal of Neural Engineering (2022)</i><br>
+Xiaohan Xue*, <b>Alessio P. Buccino</b>*, Sreedhar Kumar, Andreas Hierlemann, and Julian Bartram
+</p>
+
+<p>
+<a href="https://www.eneuro.org/content/9/5/ENEURO.0105-22.2022">
+<b>How do spike collisions affect spike sorting performance?</b></a><br>
+<i>eNeuro (2022)</i><br>
+Samuel Garcia, <b>Alessio P. Buccino</b>*, Pierre Yger
+</p>
+
+
+<p>
+<a href="https://www.nature.com/articles/s41467-022-32115-4">
+<b>Functional neuronal circuitry and oscillatory dynamics in human brain organoids</b></a><br>
+<i>Nature Communications (2022)</i><br>
+Tal Sharf, Tjitse van der Molen, Stella M. K. Glasauer, Elmer Guzman, <b>Alessio P. Buccino</b>, Gabriel Luna, Zhouwei Cheng, Morgane Audouard, Kamalini G. Ranasinghe, Kiwamu Kudo, Srikantan S. Nagarajan, Kenneth R Tovar, Linda R Petzold, Andreas Hierlemann, Paul K. Hansma, and Kenneth S. Kosik
+</p>
+
+
+<p>
 <a href="https://iopscience.iop.org/article/10.1088/2516-1091/ac6b96">
 <b>Spike sorting: new trends and challenges of the era of high-density probes</b></a><br>
 <i>Progress in Biomedical Engineering (2022)</i><br> 
@@ -105,25 +128,10 @@ Mikkel E. Lepperød, Svenn-Arne Dragly, <b>Alessio P. Buccino</b>, Milad H. Moba
 
 
 <p>
-<a href="https://www.biorxiv.org/content/10.1101/2022.02.16.480643v1">
-<b>Inferring monosynaptic connections from paired dendritic spine Ca2+ imaging and large-scale recording of extracellular spiking</b></a><br>
+<a href="https://www.biorxiv.org/content/10.1101/2022.08.03.502468v1">
+<b>A multi-modal fitting approach to construct single-neuron models with patch clamp and high-density microelectrode arrays</b></a><br>
 <i>biorXiv (2022)</i><br>
-Xiaohan Xue*, <b>Alessio P. Buccino</b>*, Sreedhar Kumar, Andreas Hierlemann, and Julian Bartram
-</p>
-
-<p>
-<a href="https://www.biorxiv.org/content/10.1101/2021.11.29.470450v1">
-<b>How do spike collisions affect spike sorting performance?</b></a><br>
-<i>biorXiv (2022)</i><br>
-Samuel Garcia, <b>Alessio P. Buccino</b>*, Pierre Yger
-</p>
-
-
-<p>
-<a href="https://www.biorxiv.org/content/10.1101/2021.01.28.428643v2">
-<b>Human brain organoid networks</b></a><br>
-<i>biorXiv (2021)</i><br>
-Tal Sharf, Tjitse van der Molen, Stella M. K. Glasauer, Elmer Guzman, <b>Alessio P. Buccino</b>, Gabriel Luna, Zhouwei Cheng, Morgane Audouard, Kamalini G. Ranasinghe, Kiwamu Kudo, Srikantan S. Nagarajan, Kenneth R Tovar, Linda R Petzold, Andreas Hierlemann, Paul K. Hansma, and Kenneth S. Kosik
+<b>Alessio P. Buccino</b>, Tanguy Damart, Julian Bartram, Darshan Mandge, Xiaohan Xue, Mickael Zbili, Tobias Gänswein, Aurelién Jaquier, Vishalini Emmenegger, Henry Markram, Andreas Hierlemann, and Werner Van Geit
 </p>
 
 
