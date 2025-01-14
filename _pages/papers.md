@@ -8,6 +8,55 @@ author_profile: true
 # Journal 
 
 <p>
+<a href="https://www.nature.com/articles/s41565-024-01609-1">
+<b>Mechanical stimulation and electrophysiological monitoring at subcellular resolution reveals differential mechanosensation of neurons within networks</b></a><br>
+<i>Nature Nanotechnology (2024)</i><br>
+KC Kasuba, <b>Alessio P. Buccino</b>, J Bartram, BM Gaub, FJ Fauser, S Ronchi, S Kumar, S Geissler, MM Nava, A Hierlemann, DJ Müller
+</p>
+
+<p>
+<a href="https://direct.mit.edu/neco/article/36/7/1286/121124/A-Multimodal-Fitting-Approach-to-Construct-Single">
+<b>A Multimodal Fitting Approach to Construct Single-Neuron Models With Patch Clamp and High-Density Microelectrode Arrays</b></a><br>
+<i>Neural Computation (2024)</i><br>
+<b>Alessio P. Buccino</b>, T Damart, J Bartram, D Mandge, X Xue, M Zbili, T Gänswein, A Jaquier, V Emmenegger, H Markram, A Hierlemann, W Van Geit
+</p>
+
+<p>
+<a href="https://ieeexplore.ieee.org/abstract/document/10591788">
+<b>Low-Power Fully Integrated 256-Channel Nanowire Electrode-on-Chip Neural Interface for Intracellular Electrophysiology</b></a><br>
+<i>IEEE Transactions on Biomedical Circuits and Systems (2024)</i><br>
+J Wang, R Liu, Y Tchoe, <b>Alessio P. Buccino</b>, A Paul, D Pre, A D'Antonio-Chronowska, F Kelly, AG Bang, C Kim, S Dayeh, G Cauwenberghs
+</p>
+
+<p>
+<a href="https://elifesciences.org/reviewed-preprints/86820">
+<b>Parallel reconstruction of the excitatory and inhibitory inputs received by single neurons reveals the synaptic basis of recurrent spiking</b></a><br>
+<i>eLife (2024)</i><br>
+J Bartram, F Franke, SS Kumar, <b>Alessio P. Buccino</b>, X Xue, T Gänswein
+</p>
+
+<p>
+<a href="https://www.eneuro.org/content/11/2/ENEURO.0229-23.2023.abstract">
+<b>A modular implementation to handle and benchmark drift correction for high-density extracellular recordings</b></a><br>
+<i>eNeuro (2024)</i><br>
+S Garcia, C Windolf, J Boussard, B Dichter, <b>Alessio P. Buccino</b>, P Yger
+</p>
+
+<p>
+<a href="https://iopscience.iop.org/article/10.1088/1741-2552/acf5a4/meta">
+<b>Compression strategies for large-scale electrophysiology data</b></a><br>
+<i>Journal of Neural Engineering (2023)</i><br>
+<b>Alessio P. Buccino</b>, O Winter, D Bryant, D Feng, K Svoboda, JH Siegle
+</p>
+
+<p>
+<a href="https://doi.org/10.1523/JNEUROSCI.1652-23.2023">
+<b>Neurons differentiate magnitude, location and loading rate of mechanical forces</b></a><br>
+<i>Journal of Neuroscience (2023)</i><br>
+KC Kasuba, <b>Alessio P. Buccino</b>, J Bartram, B Gaub, S Kumar, S Ronchi
+</p>
+
+<p>
 <a href="https://iopscience.iop.org/article/10.1088/1741-2552/ac8765">
 <b>Inferring monosynaptic connections from paired dendritic spine Ca2+ imaging and large-scale recording of extracellular spiking</b></a><br>
 <i>Journal of Neural Engineering (2022)</i><br>
@@ -21,14 +70,12 @@ Xiaohan Xue*, <b>Alessio P. Buccino</b>*, Sreedhar Kumar, Andreas Hierlemann, an
 Samuel Garcia, <b>Alessio P. Buccino</b>*, Pierre Yger
 </p>
 
-
 <p>
 <a href="https://www.nature.com/articles/s41467-022-32115-4">
 <b>Functional neuronal circuitry and oscillatory dynamics in human brain organoids</b></a><br>
 <i>Nature Communications (2022)</i><br>
 Tal Sharf, Tjitse van der Molen, Stella M. K. Glasauer, Elmer Guzman, <b>Alessio P. Buccino</b>, Gabriel Luna, Zhouwei Cheng, Morgane Audouard, Kamalini G. Ranasinghe, Kiwamu Kudo, Srikantan S. Nagarajan, Kenneth R Tovar, Linda R Petzold, Andreas Hierlemann, Paul K. Hansma, and Kenneth S. Kosik
 </p>
-
 
 <p>
 <a href="https://iopscience.iop.org/article/10.1088/2516-1091/ac6b96">
@@ -49,6 +96,13 @@ Tal Sharf, Tjitse van der Molen, Stella M. K. Glasauer, Elmer Guzman, <b>Alessio
 <b>ProbeInterface: a unified framework for probe handling in extracellular electrophysiology</b></a><br>
 <i>Frontiers in Neuroinformatics (2022)</i><br> 
 Samuel Garcia, Julia Sprenger, Tahl Holtzman, and <b>Alessio P. Buccino</b>
+</p>
+
+<p>
+<a href="https://www.frontiersin.org/journals/neuroinformatics/articles/10.3389/fninf.2022.957255/full">
+<b>Tracking axon initial segment plasticity using high-density microelectrode arrays: A computational study</b></a><br>
+<i>Frontiers in Neuroinformatics (2022)</i><br>
+SS Kumar, T Gänswein, <b>Alessio P. Buccino</b>, X Xue, J Bartram, V Emmenegger
 </p>
 
 <p>
@@ -99,15 +153,12 @@ Mikkel E. Lepperød, Svenn-Arne Dragly, <b>Alessio P. Buccino</b>, Milad H. Moba
 <b>Alessio P. Buccino</b>, Miroslav Kuchta, Karoline H. Jæger, Torbjørn V. Ness, Pierre Berthet, Kent-Andre Mardal, Gert Cauwenberghs, and Aslak Tveito
 </p>
 
-
 <p>
 <a href="https://journals.physiology.org/doi/full/10.1152/jn.00210.2018">
 <b>Combining biophysical modeling and deep learning for multielectrode array neuron localization and classification</b></a><br>
 <i> Journal of Neurophysiology (2018)</i><br>
 <b>Alessio P. Buccino</b><sup>1</sup>, Michael Kordovan<sup>1</sup>, Torbjørn V. Ness, Benjamin Merkt, Philipp D. Häfliger, Marianne Fyhn, Gert Cauwenberghs, Stefan Rotter, and Gaute T. Einevoll. (1. equal contribution). 
-
 </p>
-
 
 <p>
 <a href="https://iopscience.iop.org/article/10.1088/1741-2552/aacf45">
@@ -116,22 +167,33 @@ Mikkel E. Lepperød, Svenn-Arne Dragly, <b>Alessio P. Buccino</b>, Milad H. Moba
 <b>Alessio P. Buccino</b>,  Mikkel E. Lepperød, Svenn-Arne Dragly, Philipp D. Häfliger, Marianne Fyhn, and Torkel Hafting
 </p>
 
-
 <p>
 <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0146610">
 <b>Hybrid EEG-fNIRS Asynchronous Brain-Computer Interface for Multiple Motor Tasks</b></a><br>
 <i>Plos One (2016)</i><br> <b>Alessio P. Buccino</b>, Hasan O. Keles, and Ahmet Omurtag
 </p>
 
-
 # Preprints
 
+<p>
+<a href="https://www.biorxiv.org/content/10.1101/2024.11.06.622160">
+<b>MEDICINe: Motion Correction for Neural Electrophysiology Recordings</b></a><br>
+<i>bioRxiv (2024)</i><br>
+N Watters, <b>Alessio P. Buccino</b>, M Jazayeri
+</p>
 
 <p>
-<a href="https://www.biorxiv.org/content/10.1101/2022.08.03.502468v1">
-<b>A multi-modal fitting approach to construct single-neuron models with patch clamp and high-density microelectrode arrays</b></a><br>
-<i>biorXiv (2022)</i><br>
-<b>Alessio P. Buccino</b>, Tanguy Damart, Julian Bartram, Darshan Mandge, Xiaohan Xue, Mickael Zbili, Tobias Gänswein, Aurelién Jaquier, Vishalini Emmenegger, Henry Markram, Andreas Hierlemann, and Werner Van Geit
+<a href="https://www.biorxiv.org/content/10.1101/2024.03.20.585910">
+<b>Deciphering the Role of Aggrecan in Parvalbumin Interneurons: Unexpected Outcomes from a Conditional ACAN Knockout That Eliminates WFA+ Perineuronal Nets</b></a><br>
+<i>bioRxiv (2024)</i><br>
+S Grodem, EH Thompson, MB Roe, GH Vatne, <b>Alessio P. Buccino</b>
+</p>
+
+<p>
+<a href="https://www.biorxiv.org/content/10.1101/2024.01.01.574001">
+<b>Spyglass: a framework for reproducible and shareable neuroscience research</b></a><br>
+<i>bioRxiv (2024)</i><br>
+KH Lee, EL Denovelis, R Ly, J Magland, J Soules, AE Comrie, DP Gramling, JA Guidera, R Nevers, P Adenekan, C Brozdowski, SR Bray, E Monroe, JH Bak, ME Coulter, X Sun, E Broyles, D Shin, S Chiang, C Holobetz, A Tritt, O Rübel, T Nguyen, D Yatsenko, J Chu, C Kemere, S Garcia, <b>Alessio P. Buccino</b>, LM Frank
 </p>
 
 
@@ -164,7 +226,6 @@ Mikkel E. Lepperød, Svenn-Arne Dragly, <b>Alessio P. Buccino</b>, Milad H. Moba
 <b>Alessio P. Buccino</b>, Torbjørn V. Ness, Gaute T. Einevoll, Gert Cauwenberghs, and Philipp D. Häfliger
 </p>
 
-
 <p>
 <a href="https://ieeexplore.ieee.org/document/8512498">
 <b>Localizing neuronal somata from multi-electrode array in-vivo recordings using deep learning</b></a><br>
@@ -179,7 +240,6 @@ Mikkel E. Lepperød, Svenn-Arne Dragly, <b>Alessio P. Buccino</b>, Milad H. Moba
 <b>Alessio P. Buccino</b>, Tristan Stöber, Solveig Næss, Gert Cauwenberghs, and Philipp D. Häfliger
 </p>
 
-
 # Book Chapters
 
 <p>
@@ -189,14 +249,12 @@ Mikkel E. Lepperød, Svenn-Arne Dragly, <b>Alessio P. Buccino</b>, Milad H. Moba
 <b>Alessio P. Buccino</b>, Miroslav Kuchta, Jakob Schreiner, and Kent-André Mardal
 </p>
 
-
 <p>
 <a href="https://link.springer.com/chapter/10.1007/978-3-030-43395-6_2#citeas">
 <b>Biopotential Measurements and Electrodes</b></a><br>
 <i>Neural Engineering. Springer (2020)</i><br>
 Abraham Akinin, Akshay Paul, Jun Wang, <b>Alessio P. Buccino</b>, and Gert Cauwenberghs
 </p>
-
 
 # PhD Thesis
 
@@ -215,5 +273,3 @@ Abraham Akinin, Akshay Paul, Jun Wang, <b>Alessio P. Buccino</b>, and Gert Cauwe
 <i>Master thesis, Polytechnic University of Milan (2015) </i><br>
 <b>Alessio P. Buccino</b>
 </p>
-
-
