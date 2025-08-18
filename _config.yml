@@ -9,11 +9,11 @@
 locale                   : "en-US"
 title                    : "About Me"
 title_separator          : "-"
-name                     : &name "Alessio Buccino"
-description              : &description "Postdoc Fellow at the Bio Engineering Lab at ETH.. I'm interested in neurotechnology, computational neuroscience, neural engineering, music, and soccer."
-url                      : https://alessiobuccino.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Payam S. Shabestari"
+description              : &description "PhD student at Zurich Neuroscience Center (ZNZ).. I'm interested in signal processing, computational neuroscience, machine learning and neurofeedback."
+url                      : https://payamsash.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "alejoe91/alejoe91.github.io"
+repository               : "payamsash/payamsash.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Alessio Buccino"
+  name             : "Payam S. Shabestari"
   avatar           : "profile.png"
-  bio              : "Electrophysiology Pipeline Development Engineer. I'm interested in neurotechnology, computational neuroscience, neural engineering, music, and soccer."
-  location         : "Milan, Italy"
+  bio              : "PhD student at Zurich Neuroscience Center (ZNZ). I'm interested in signal processing, computational neuroscience, machine learning and neurofeedback."
+  location         : "Zurich, Switzerland"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=alessio+buccino"
-  googlescholar    : "https://scholar.google.com/citations?hl=it&user=UmLW1NAAAAAJ"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=alessio+buccino"
+  googlescholar    : "https://scholar.google.com/citations?user=W5hHHuIAAAAJ&hl=en&oi=ao"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "alejoe91"
+  github           : "payamsash"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "www.linkedin.com/in/alessio-buccino-770abbb6"
-  orcid            : "https://orcid.org/0000-0003-3661-527X"
+  linkedin         : "www.linkedin.com/in/payam-sadeghi-2a7312112"
+  orcid            : "https://orcid.org/0000-0002-2647-4891"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "buccino_alessio"
+  twitter          : # "buccino_alessio"
   vine             :
   weibo            :
   xing             :
