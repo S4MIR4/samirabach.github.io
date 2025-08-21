@@ -25,9 +25,8 @@ multimodal approaches to probe neural activity and to construct detailed biophys
 Center for Integrated Neuroplasticity [CINPLA](https://www.mn.uio.no/ibv/english/research/sections/fyscell/cinpla/), 
 at the University of Oslo, where I received my PhD. -->
 
-<video width="600" controls>
-  <source src="https://github.com/payamsash/payamsash.github.io/raw/master/images/VisualTree.mp4" type="video/mp4">
-  Your browser does not support the video tag.
+<video width="600" controls autoplay loop muted>
+  <source src="/images/VisualTree.mp4" type="video/mp4">
 </video>
 
 
