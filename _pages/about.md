@@ -27,7 +27,7 @@ at the University of Oslo, where I received my PhD. -->
 
 
 <figure>
-  <video width="600" controls>
+  <video width="600" controls autoplay muted loop>
     <source src="/images/VisualTree.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
