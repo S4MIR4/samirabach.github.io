@@ -8,31 +8,37 @@ author_profile: true
 # Journal 
 
 <p>
-<a href="https://www.nature.com/articles/s41565-024-01609-1">
+<a href="https://link.springer.com/article/10.1007/s10162-025-00999-w">
 <b>Inhibition of Cortical Evoked Responses to Sound Pulses by Preceding Silent Gaps</b></a><br>
 <i>Journal of the Association for Research in Otolaryngology (2025)</i><br>
 <b>Payam S Shabestari<b>, Niklas K Edvall, Mikkel C Vinding, Sven Vanneste, Daniel Lundqvist, Patrick Neff, Christopher R Cederroth
-</p>
+
 
 <p>
-<a href="https://direct.mit.edu/neco/article/36/7/1286/121124/A-Multimodal-Fitting-Approach-to-Construct-Single">
+<a href="https://ieeexplore.ieee.org/document/11058809">
 <b>Advances on Real Time M/EEG Neural Feature Extraction</b></a><br>
 <i>IEEE CBMS (2025)</i><br>
 <b>Payam S Shabestari<b>, Delphine Ribes, Lara Défayes, Danpeng Cai, Emily Groves, Harry H Behjat, Dimitri Van de Ville, Tobias Kleinjung, Adrian Naas, Nicolas Henchoz, Andreas Sonderegger, Patrick Neff
-</p>
+
 
 <p>
-<a href="https://ieeexplore.ieee.org/abstract/document/10591788">
+<a href="https://www.biorxiv.org/content/10.1101/2025.03.10.642147v1">
 <b>Frequency-specific resting-state meg network characteristics of tinnitus patients revealed by graph learning</b></a><br>
 <i>IEEE Transactions on Biomedical Circuits and Systems (2024)</i><br>
 <b>Payam S Shabestari<b>, Harry H Behjat, Dimitri Van De Ville, Christopher R Cederroth, Niklas K Edvall, Adrian Naas, Tobias Kleinjung, Patrick Neff
-</p>
+
+<p>
+<a href="https://www.nature.com/articles/s41598-025-95351-w">
+<b>Prediction of acoustic tinnitus suppression using resting-state EEG via explainable AI approach</b></a><br>
+<i>IEEE Transactions on Biomedical Circuits and Systems (2024)</i><br>
+<b>Payam S Shabestari<b>, Stefan Schoisswohl, Zino Wellauer, Adrian Naas, Tobias Kleinjung, Martin Schecklmann, Berthold Langguth, Patrick Neff
+
 
 # Master Thesis
 
 <p>
-<a href="https://www.politesi.polimi.it/handle/10589/112424">
-<b>Development of a hybrid EEG-NIRS brain computer interface for multiple motor tasks</b></a><br>
-<i>Master thesis, Polytechnic University of Milan (2015) </i><br>
-<b>Alessio P. Buccino</b>
-</p>
+<a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=W5hHHuIAAAAJ&sortby=pubdate&citation_for_view=W5hHHuIAAAAJ:eQOLeE2rZwMC">
+<b>Improving spike sorting performance of bursting neurons</b></a><br>
+<i>Master thesis, Polytechnic University of Milan / ETH Zurich (2020) </i><br>
+<b>Payam S Shabestari</b>
+
