@@ -11,7 +11,7 @@ redirect_from:
 Research
 =========
 
-My research focuses on computational neuroscience and involves working with multi-electrode electrophysiological recordings, including MEG and EEG to enhance neuronal data analysis using various methods and improve real-time signal analysis for neurofeedback applications. 
+My research focuses on computational chemistry and involves working with multi-electrode electrophysiological recordings, including MEG and EEG to enhance neuronal data analysis using various methods and improve real-time signal analysis for neurofeedback applications. 
 
 <!-- In March 2022, I joined the Allen Institute for Neural Dynamics team as an electrophysiology pipeline development 
 engineer consultant, with the goal of building open-source and computationally efficient processing pipelines to 
