@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "About Me"
 title_separator          : "-"
-name                     : &name "Payam S. Shabestari"
+name                     : &name "Samira Baghbanbari"
 description              : &description "PhD student at Zurich Neuroscience Center (ZNZ).. I'm interested in signal processing, computational neuroscience, machine learning and neurofeedback."
 url                      : https://payamsash.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
