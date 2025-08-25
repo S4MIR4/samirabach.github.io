@@ -11,7 +11,9 @@ redirect_from:
 Research
 =========
 
-My research focuses on computational chemistry and involves working with multi-electrode electrophysiological recordings, including MEG and EEG to enhance neuronal data analysis using various methods and improve real-time signal analysis for neurofeedback applications. 
+I have extensively utilized computational methods for the electrochemical parameterization of metal complex redox potentials, with a focus on transition metal complexes such as ruthenium and molybdenum octahedral complexes coordinated with dinitrogen as the target ligand, exploring their applications in designing ammonia synthesis catalysts. My work has heavily relied on DFT calculations to compute electronic and bonding properties.  
+
+In addition, my research has delved into peptide-peptide, ligand-receptor, peptide-lipid, and water-lipid interactions using molecular dynamics (MD) simulations, as well as QSAR analyses for peptide-based drug evaluation. My interests lie at the intersection of computational chemistry and computer science, where I leverage my strong foundation in molecular and computational chemistry alongside proficient programming skills to tackle complex scientific challenges. 
 
 <!-- In March 2022, I joined the Allen Institute for Neural Dynamics team as an electrophysiology pipeline development 
 engineer consultant, with the goal of building open-source and computationally efficient processing pipelines to 
