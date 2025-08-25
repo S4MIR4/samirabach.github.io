@@ -7,5 +7,5 @@ redirect_from:
   - /resume
 ---
 
-<embed src="../images/AlessioBuccinoCV.pdf" width="800px" height="2100px" />
+<embed src="../Samira_CV_.pdf" width="800px" height="2100px" />
 
