@@ -8,7 +8,7 @@ author_profile: true
 # Journal 
 
 <p>
-<a href="https://link.springer.com/article/10.1007/s10162-025-00999-w">
+<a href="https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=samira+baghbanbari&btnG=">
 <b>Computational Characterization of Electronic Charge Transfer in Interfacial Phospholipid-Water Layers</b></a><br>
 <i>Proquest (2024)</i><br>
 <b>Samira Baghbanbari<b>, Donald F. Weaver
