@@ -11,7 +11,7 @@ title                    : "About Me"
 title_separator          : "-"
 name                     : &name "Samira Baghbanbari"
 description              : &description "MSc graduate from the University of Toronto with a strong interest in computational chemistry, focusing on biomolecules and catalysis."
-url                      : https://github.com/S4MIR4/samirabach.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io".  #here is the problem that squares wont appear on git page
+url                      : https://samirabach.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io".  #here is the problem that squares wont appear on git page
 baseurl                  : "" # the subpath of your site, e.g. "/blog" https://github.com/S4MIR4/samirabach.github.io
 repository               : "S4MIR4/samirabach.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
